@@ -2,6 +2,8 @@
 
 This repo contains all of the resources necessary for the website development class/workshop held by Personal and Academic Software Skills (PASS) at Brown University.
 
+TinyURL to Incomplete Branch: https://tinyurl.com/bluenostartercode
+
 The link to the GitHub Pages website for this repo: https://caoruiming.github.io/pass-web-dev/
 
 Link to free Bootstrap templates: https://startbootstrap.com/templates/
